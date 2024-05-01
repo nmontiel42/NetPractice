@@ -1,3 +1,5 @@
+ <img src="https://media.tenor.com/Y4AzOUrW5GQAAAAM/gato-moviendo-la-cabeza-al-ritmo-de-la-musica.gif"/>
+
 # Description:
 <p>
   This project is inspired by the world-famous Wolfenstein 3D game, which
